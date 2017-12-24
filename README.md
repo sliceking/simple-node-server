@@ -1,2 +1,2 @@
 # simple-node-server
-a reusable simple node server
+a simple node server
